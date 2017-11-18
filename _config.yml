@@ -1,5 +1,5 @@
 title:            BKS SMOK
-description:      Bokserskieg Klub Sportowy SMOK – ZABIERZÓW
+description:      Bokserski Klub Sportowy SMOK – ZABIERZÓW
 
 # put your disqus here
 disqus_shortname:
@@ -18,8 +18,6 @@ url: http://localhost:4000
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Sponsorzy'
-    url: '/sponsorzy'
   - title: 'Treningi - Zapisy'
     url: '/treningi-zapisy'
   - title: 'Aktualności'
@@ -28,6 +26,8 @@ menu:
     url: '/kadra-trenerska'
   - title: 'Kontakt'
     url: '/kontakt'
+  - title: 'O klubie'
+    url: '/klub'
 
 
 # Twitter account associated with the site if different from owner/author twitter account.
