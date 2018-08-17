@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ZAWODNIK BKS SMOK-ZABIRZÓW MISTRZEM MAŁOPOLSKI W BOKSIE 2018 r."
-description: "ZAWODNIK BKS SMOK-ZABIRZÓW MISTRZEM MAŁOPOLSKI W BOKSIE 2018 r."
+title: "ZAWODNIK BKS SMOK-ZABIERZÓW MISTRZEM MAŁOPOLSKI W BOKSIE 2018 r."
+description: "ZAWODNIK BKS SMOK-ZABIERZÓW MISTRZEM MAŁOPOLSKI W BOKSIE 2018 r."
 tags: [boks, turniej, mistrzostwa małopolski]
 ---
 W dniach 17-18 luty 2018r. w miejscowości Gnojnik, odbyły się Mistrzostwa Małopolski
