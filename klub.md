@@ -1,5 +1,5 @@
 ---
-layout: dark-post
+layout: home
 title: O klubie
 description: "Klub."
 comments: false

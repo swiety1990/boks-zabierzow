@@ -11,11 +11,12 @@
 
 {% include browser-upgrade.html %}
 {% include header.html %}
-
 <div id="main" role="main">
-  {{ content }}
-</div><!-- /#main -->
-
+	{% include side-menu.html %}
+	<div class="main-content">
+	  {{ content }}
+	</div><!-- /#main -->
+</div>
 {% include scripts.html %}
 
 <div class="footer-wrapper">

@@ -20,14 +20,23 @@ url: http://www.boks-zabierzow.pl
 menu:
   - title: 'Treningi - Zapisy'
     url: '/treningi-zapisy'
+    id: "zapisy"
   - title: 'Aktualności'
     url: '/'
+    id: "aktualnosci"
   - title: 'Kadra trenerska'
     url: '/kadra-trenerska'
+    id: "kadra"
   - title: 'Kontakt'
     url: '/kontakt'
+    id: "kontakt"
   - title: 'O klubie'
     url: '/klub'
+    id: "o_klubie"
+  - title: 'Sponsorzy'
+    url: '/sponsorzy'
+    id: 'sponsorzy'
+    
 
 
 # Twitter account associated with the site if different from owner/author twitter account.
@@ -36,10 +45,6 @@ twitter: false
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
-  - title: "github"
-    url: "https://github.com/aron-bordin"
-  - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
   - title: "youtube"
     url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 

@@ -7,19 +7,22 @@
 {% include head.html %}
 </head>
 
-<body id="post" {% if page.image.feature %}class="feature"{% endif %}>
+<body>
 
 {% include browser-upgrade.html %}
 {% include header.html %}
 
 <div id="main" role="main">
-  <article class="hentry">
-    <div class="entry-content">
+	{% include side-menu.html %}
+
+   <div class="main-content">
+  	<article class="hentry hentry-dark">
       <h1 class="post-title entry-title">{{ page.title }}</h1>
-      {{ content }}
+      <div class="entry-content">{{ content }}</div>
+      </article>  
     </div><!-- /.entry-content -->
-  </article>
-</div><!-- /#main -->
+
+</div>
 
 {% include scripts.html %}
 

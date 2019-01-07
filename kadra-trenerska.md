@@ -1,5 +1,5 @@
 ---
-layout: dark-post
+layout: home
 title: Kadra
 description: "Kadra trenerska."
 comments: false
