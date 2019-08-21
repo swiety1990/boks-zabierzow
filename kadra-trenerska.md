@@ -20,5 +20,5 @@ Grzegorz Zbroja - trener boksu i kick boxingu
 Grzegorz Majcher - trener kick-boxingu i boksu
 * Wykształcenie: Absolwent Akademii Rolniczej w Krakowie - magister, inżynier Geodezji 
 * Instruktor kick-boxingu (legitymacja Nr 14659/I/S /2003)
-* Trener boksu II klasy ( legitymacja Nr 12/T/Bx/2019)
+* Trener boksu II klasy (legitymacja Nr 12/T/Bx/2019)
 * Osiągnięcia sportowe: 1 DAN - stopień mistrzowski., V-CE Mistrz Małopolski w formule full, semi, light contact (1994r - 1996r. kat wag 74, 69 kg).
