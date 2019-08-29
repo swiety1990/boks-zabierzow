@@ -256,6 +256,9 @@ ul.social-buttons li a:active {
 	}
 }
 
+.clearfix {
+  @include clearfix;
+}	
 // Footer
 // --------------------------------------------------
 .footer-wrapper {
